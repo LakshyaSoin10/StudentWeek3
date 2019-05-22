@@ -16,7 +16,7 @@ public class StudentWeek3 {
         Student s1=new Student();
         s1.setFirstName("Lakshya");
         s1.setID(10);
-       System.out.println("See you again")
+       System.out.println("See you again");
     }
     
 }
